@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @HetrisleyGomes
-- 👀 I’m interested in aways improve
+- 👀 I’m interested in always improve
 - 🌱 I’m currently learning:
-  - Java data structure;
-  - Java with SpringBoot;
+  - data structure;
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
