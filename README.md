@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @HetrisleyGomes
 - 👀 I’m interested in always improve
-- 🌱 I’m currently learning:
-  - data structure;
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Looking for a job :)
+- Dev Junior
+
 
 <!---
 HetrisleyGomes/HetrisleyGomes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
