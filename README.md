@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HetrisleyGomes
 - 👀 I’m interested in always improve
 - 👀 Looking for a job :)
-- Dev Junior
+- Dev Junior (Full-Stack)
 
 
 <!---
