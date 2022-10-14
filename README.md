@@ -1,17 +1,20 @@
 - 👋 Hi, I’m @HetrisleyGomes
 - 👀 I’m interested in always improve
 - 👀 Looking for a job :)
-- Dev Junior (Full-Stack)
+- Dev Junior
+- Full-Stack
+- Database
 
 - Abilities:
   - HTML;
   - CSS;
   - Javascript;
-  - Java (Springboot);
+  - Java [with Springboot];
   - MySQL;
   - Bootstrap (per class-link);
   - Vue.js;
   - Python (Language Basics, Task Automation and Data Analysis)
+  - PHP (still in learning)[with Laravel]
 
 
 <!---
