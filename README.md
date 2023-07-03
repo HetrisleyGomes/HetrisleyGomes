@@ -13,7 +13,7 @@
   - MySQL;
   - Bootstrap (per class-link);
   - Vue.js;
-  - Python (Language Basics, Task Automation and Data Analysis)
+  - Python (Language Basics, Task Automation and Data Analysis, Flask)
   - PHP (still in learning)[with Laravel]
 
 
