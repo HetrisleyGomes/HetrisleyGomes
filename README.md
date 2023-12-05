@@ -1,12 +1,26 @@
-👋 Hello, I'm @HetrisleyGomes, I'm a Brazilian developer, I'm 21 years old!
+👋 Hello, I'm @HetrisleyGomes
+---
 
-🌱 Always seeking growth and learning, I'm a young programmer who relishes challenges. My journey spans various languages, from the classics like HTML, CSS, and JavaScript to languages like Python, Java, and PHP.
+**About me**
 
-💡 In the realm of databases, I master JSON and MySQL. I'm also an enthusiast of frameworks like Flask, Vue.js and Bootstrap, and I'm constantly expanding my skill set.
+Hello, my name is Hetrisley Gomes, I am a developer born and raised in Rio Grande do Norte - Brazil. Since I was little, I was always very creative and thought outside the box, these characteristics actually helped me choose which direction to follow.
 
-🤝 I'm thrilled to collaborate on exciting projects. Let's team up? Get in touch and let's explore partnership opportunities!
+---
 
-📬 Contact: hetrisleygomes@gmail.com
+**Skills**
+- Website development;
+- Web programming with Java Script, Python and Java;
+- Frameworks Vue.js and Flask;
+- SQL, NoSQL and JSON database management;
+- Linux Apache server management;
+- Fundamentals of user experience design (UX);
+
+---
+
+**Contact**
+
+📬 E-mail: [hetrisleygomes@gmail.com](mailto:hetrisleygomes@gmail.com)
+
 💼 LinkedIn: [linkedin.com/in/hetrisley-gomes](https://www.linkedin.com/in/hetrisley-gomes-760aa6227/)
 <!---
 HetrisleyGomes/HetrisleyGomes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
