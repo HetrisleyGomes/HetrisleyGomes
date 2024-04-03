@@ -22,7 +22,7 @@ Sou um desenvolvedor de softwares fullstack, com conhecimento em Design UI UX e 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HetrisleyGomes&theme=transparent&bg_color=000&border_color=0056d2&show_icons=true&icon_color=547bee&title_color=0056d2&text_color=FFF)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HetrisleyGomes&bg_color=000&border_color=0056d2&title_color=0056d2&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HetrisleyGomes&layout=compact&bg_color=000&border_color=0056d2&title_color=0056d2&text_color=FFF)
 
 ---
 
